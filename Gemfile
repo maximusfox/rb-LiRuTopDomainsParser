@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'socksify', '~> 1.7', '>= 1.7.1'
+gem 'httparty', '~> 0.20.0'
+gem 'concurrent-ruby', '~> 1.1', '>= 1.1.10'
+gem 'tsv', '~> 1.0'
+gem 'pp', '~> 0.3.0'
